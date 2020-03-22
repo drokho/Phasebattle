@@ -1,8 +1,11 @@
 # Phasebattle
 
 Mongo Provider: Cloud.mongodb.com
+
 username: Brandon Gamble
+
 email: typhoongraphics@yahoo.com
+
 Pw: boobear4
 
 This game is used tutorial located here:
